@@ -90,8 +90,8 @@ int main(int argc, char *argv[])
 
     btnPanel -> setLayout(layout_buttons);
 
-    mainLayout -> addWidget(box_1);
-    mainLayout -> addWidget(label);
+    //mainLayout -> addWidget(box_1);
+    //mainLayout -> addWidget(label);
     mainLayout -> addWidget(lcdPanel);
     mainLayout -> addWidget(controlPanel);
     mainLayout -> addWidget(btnPanel);
